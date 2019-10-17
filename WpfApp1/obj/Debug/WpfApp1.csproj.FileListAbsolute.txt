@@ -1,0 +1,37 @@
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\peiwenw\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\KIT506 A2\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+H:\KIT506 A2\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\KIT506 A2\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+H:\KIT506 A2\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\KIT506 A2\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\KIT506 A2\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+H:\KIT506 A2\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\new UI\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
