@@ -12,6 +12,6 @@ namespace RAPSystem.Model
 
         public string Performance { set; get; }
 
-        public int SupervisionsAmount { set; get; }
+        public int TotalSupervisions { set; get; }
     }
 }

@@ -60,5 +60,27 @@ namespace RAPSystem.Control
             LinQ.ToList().ForEach(viewableresearchers.Add);
         }
 
+        public List<Publication> PublicationSort(List<Publication> pubList, string Order)
+        {
+            List<Publication> newOrder = new List<Publication>();
+            if (Order == "System.Windows.Controls.ComboBoxItem: OldestFirst")
+            {
+                var sort = from Publication p in pubList
+                          orderby p.year
+                          select p;
+                newOrder.Clear();
+                sort.ToList().ForEach(newOrder.Add);
+            }
+            else
+            {
+                var sort = from Publication p in pubList
+                          orderby p.year descending
+                           select p;
+                newOrder.Clear();
+                sort.ToList().ForEach(newOrder.Add);
+            }
+
+            return newOrder;
+        }
     }
 }

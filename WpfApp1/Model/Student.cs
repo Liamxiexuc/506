@@ -14,6 +14,8 @@ namespace RAPSystem.Model
 
         public string SupervisorName { set; get; }
 
+        public int TotalSupervisions { set; get; }
+
         public override string ToString()
         {
             return FullName;

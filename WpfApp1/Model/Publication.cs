@@ -7,7 +7,13 @@ using System.Threading.Tasks;
 namespace RAPSystem.Model
 {
     // type
-   // public enum PubType { Poor, Below, MeetingMinimum, StarPerformers };
+    //public enum Type { Poor, Below, MeetingMinimum, StarPerformers };
+    enum PublicationType
+    {
+        Conference,
+        Journal,
+        Other
+    }
 
     class Publication
     {
@@ -16,16 +22,22 @@ namespace RAPSystem.Model
         // publication name
         public string title { get; set; }
         // authors
-        public string authors { get; set; }
+        public string author { get; set; }
         // year
-        public DateTime year { get; set; }
+        public int year { get; set; }
        
-        public string type { get; set; }
+        public PublicationType type { get; set; }
         // citeAs
         public string citeAs { get; set; }
         // availabledate
         public DateTime availableDate { get; set; }
         // Age
         public int age { get; set; }
+
+        public override string ToString()
+        {
+            return year + "   " + title;
+
+        }
     }
 }

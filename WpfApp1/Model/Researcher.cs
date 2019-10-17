@@ -44,16 +44,28 @@ namespace RAPSystem.Model
         public string School { get; set; }
         // campus
         public Campus Campus { get; set; }
-        // telephone number
+        // unit
         public string Unit { get; set; }
         // email
         public string Email { get; set; }
-        // room
+        // photo
         public string Photo { get; set; }
-        //photo
+        //type
         public Type Type { get; set; }
 
         public EmploymentLevel Level { get; set; }
+
+        public DateTime UtasStart { set; get; }
+
+        public DateTime CurrentStart { set; get; }
+
+        public string CurrentJob { get; set; }
+
+        public double Tenure { get; set; }
+
+        public int TotalPublication { get; set; }
+
+        public List<Publication> PublicationList { get; set; }
 
         public override string ToString()
         {
